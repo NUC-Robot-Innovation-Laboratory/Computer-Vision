@@ -1,0 +1,4 @@
+﻿  Block.cpp
+C:\Users\39392\Desktop\c++俄罗斯方块\c++俄罗斯方块\c++俄罗斯方块\Block.cpp(102,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\39392\Desktop\c++俄罗斯方块\c++俄罗斯方块\c++俄罗斯方块\Block.cpp(104,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c++俄罗斯方块.vcxproj -> C:\Users\39392\Desktop\c++俄罗斯方块\c++俄罗斯方块\x64\Debug\c++俄罗斯方块.exe
