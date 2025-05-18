@@ -1,0 +1,6 @@
+﻿  打地鼠.cpp
+D:\vs studio2022\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“打地鼠.cpp”)
+  
+D:\vs studio 2022 practice\c++c项目\打地鼠.cpp(54,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  c++c项目.vcxproj -> D:\vs studio 2022 practice\c++c项目\x64\Debug\c++c项目.exe
